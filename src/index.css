@@ -1,5 +1,12 @@
 @import "tailwindcss";
 
 body {
+  background-color: #282d35;
+  color: white;
   font-family: "Inter", sans-serif;
+}
+
+.facts-list > li::marker {
+  color: #01d8ff;
+  font-size: 1.5rem;
 }
