@@ -10,3 +10,7 @@ body {
   color: #01d8ff;
   font-size: 1.5rem;
 }
+
+main {
+  background: url("/react-logo-half.png") no-repeat right center;
+}
